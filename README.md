@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/0462-mcp-codecommit-badge.png)](https://mseep.ai/app/0462-mcp-codecommit)
+
 # CodeCommit MCP
 
 Model Context Protocol (MCP) server for AWS CodeCommit operations.
